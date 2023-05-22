@@ -12,9 +12,9 @@ echo            MENU TAREFAS
 echo  =====================================
 echo * 1. Criar diretorio                  * 
 echo * 2. Copiar arquivo para exercicios   *
-echo * 3. Apagar diretorio exerciocios             *
+echo * 3. Apagar diretorio exerciocios     *
 echo * 4. Exibe hora                       *
-echo * 5. Exibe strutura da pasta execicios* 
+echo * 5. Exibe Sistema Operacional        * 
 echo  =====================================
 
 set /p opcao= Escolha uma opcao: 
@@ -66,9 +66,9 @@ goto menu
 
 :opcao5
 cls
-tree /f C:\Users\Desktop\exercicios
+ver
 echo ==============================================
-echo * Exibe strutura da pasta execicios          *
+echo * Exibe Sistema Operacional          *
 echo ==============================================
 
 :opcao6

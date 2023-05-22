@@ -1,0 +1,6 @@
+CLS limpa a tela.
+ECHO mostra as mensagens na tela.
+GOTO vai para a opção desejada.
+a opção aparece com os : (dois pontos).
+PAUSE dá um break na tela aguardando apertar qualquer tecla.
+SET aguarda teclar uma opção estipulada pelo comando I
