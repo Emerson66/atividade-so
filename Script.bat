@@ -12,7 +12,7 @@ echo            MENU TAREFAS
 echo  =====================================
 echo * 1. Criar diretorio                  * 
 echo * 2. Copiar arquivo para exercicios   *
-echo * 3. Escanear Disco Local             *
+echo * 3. Apagar diretorio exerciocios             *
 echo * 4. Exibe hora                       *
 echo * 5. Exibe strutura da pasta execicios* 
 echo  =====================================
